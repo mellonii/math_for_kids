@@ -1,0 +1,20 @@
+{
+  "project" : {
+    "id" : "shablon_kartochki",
+    "name" : "shablon_kartochki",
+    "folder" : "/jaicp"
+  },
+  "settings" : {
+    "language" : "ru",
+    "spellingCorrection" : false,
+    "classificationAlgorithm" : "sts",
+    "timezone" : "UTC",
+    "shared" : false,
+    "extendedSettings": {
+      "tokenizerEngine": "default"
+    }
+  },
+  "intents" : [ ],
+  "entities" : [ ],
+  "enabledSystemEntities" : [ "duckling.number", "duckling.time", "duckling.duration", "duckling.phone-number", "duckling.email", "duckling.url" ]
+}
